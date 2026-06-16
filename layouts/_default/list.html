@@ -4,5 +4,13 @@
   <a href="{{ .Site.Home.RelPermalink }}">Home</a>
   {{ end }}
   <h1>Upcoming events</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ or .Title .RelPermalink }}</a>
+      </li>
+    {{ end }}
+  </ul>
+  {{ end }}
 </article>
 {{ end }}
