@@ -4,9 +4,9 @@ title: "Happy Birthday, Gloria."
 
 Are you really you? 
 
-Select your birthday.
+Select your birthyear.
 
-[6/20/1997](/6-20-1997)
-[5/15/1997](/5-15-1997)
-[6/20/2026](/6-20-2026)
-[1/1/1](/1-1-1)
+[1997](/1997)
+[2097](/2097)
+[2026](/2026)
+[1](/1)
