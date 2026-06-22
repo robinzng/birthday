@@ -1,3 +1,5 @@
 baseURL = 'https://robins-parties.com/'
 locale = 'en-us'
 title = "Robin's Parties!"
+[permalinks]
+  "/" = "/:filename"
